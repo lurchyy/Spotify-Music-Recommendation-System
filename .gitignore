@@ -1,0 +1,6 @@
+# .gitignore
+nodes_modules/
+data/
+.kaggle
+spotify-dataset.zip
+.spotify
